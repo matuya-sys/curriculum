@@ -1,4 +1,0 @@
-ip v6 課題
-(１)A8AA AAFF FEAA AAAA 1010 上位７ビット目反転させて1000 8
-(２)9A76 54FF FE32 10FE 1000 上位７ビット目反転させて1010 A
-(３)FDFF FFFF FEFF FFFF 1111 上位７ビット目反転させて1101 D
